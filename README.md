@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning codind 
 - 💞️ I’m looking to collaborate on online platform
-- 📫 How to reach me ...
+
 
 <!---
 UFAIRAFAHEEM/UFAIRAFAHEEM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
